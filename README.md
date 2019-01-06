@@ -1,3 +1,8 @@
+Group Member:
+Kelvin Lin(jyl49)
+Jacky Liu(jacky-liu9)
+Andrew (yya123)
+Allen (qianyilun)
 ## Instructions
 1. Make sure `php artisan` is working on your dev envrionment
 
